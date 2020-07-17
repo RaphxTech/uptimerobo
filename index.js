@@ -6,7 +6,7 @@ const uptimerobo = async () => {
         urls.forEach(url => {
             axios.get(url).then(() => console.log("Pong at " + Date.now())).catch(() => {});
         });
-    }, 60 * 1000);
+    }, 60000);
 };
 
 uptimerobo();
