@@ -3,7 +3,8 @@ const urls = [
       "https://raph-rllbot.glitch.me",
       "https://moosikjs.glitch.me",
       "https://discord-temp-channel.glitch.me",
-      "https://kaoriproject.glitch.me"
+      "https://kaoriproject.glitch.me",
+      "https://taiga-simple.glitch.me"
 ];
 
 module.exports = urls;
