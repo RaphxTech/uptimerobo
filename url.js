@@ -5,7 +5,8 @@ const urls = [
       "https://kaoriproject.glitch.me",
       "https://taiga-simple.glitch.me",
       "https://nyx-botting.glitch.me",
-      "https://dilra-booting.glitch.me"
+      "https://dilra-booting.glitch.me",
+      "https://dbl-web.glitch.me"
 ];
 
 module.exports = urls;
