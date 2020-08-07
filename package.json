@@ -1,7 +1,7 @@
 {
-  "name": "uptimerobo",
-  "version": "1.0.0",
-  "description": "This is a Uptimerobo!",
+  "name": "uptimerobot",
+  "version": "1.0.1",
+  "description": "This is a Uptimerobot!",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
